@@ -10,3 +10,4 @@ RUN apt-get install -y --force-yes python2.6 python2.6-dev
 RUN apt-get install -y telnet
 RUN apt-get install -y curl
 RUN apt-get install -y openssh-client
+RUN apt-get install -y unzip
